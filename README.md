@@ -11,9 +11,9 @@ J'ai choisi un Cirque plutôt moderne et hors du commun. Un cirque Wild au sens 
 J'ai bien conscience que la structure de cette page est assez basique mais j'ai mis à profit mes faibles connaissances en code et tout ce que j'ai pu apprendre en peu de temps vu que je me suis inscrit tardivement. Pardon, donc pour les erreurs grossières que peut faire un débutant.
 J'ai cherché sur le WEB des références de sites qui m'ont inspiré et tout ce que j'ai pu trouver d'images autour de la thématique du cirque. Très vite j'ai choisi une charte couleur et deux polices GOOGLE (cf. en haut du CSS)
 
-J'ai utiliser avec modération des codes javascript trouvé sur des forums et via JsFiddle. J'espère que ça suffira pour le challenge: il y a un script pour la gestion du BGsound, un pour l'effet parallax de certaines DIV, un pour la barre de navigation flottante au départ et un pour le Scroll des diéffrentes parties.
+J'ai utiliser avec modération des codes javascript trouvés sur différents forums et via JsFiddle. J'espère que ça suffira pour le challenge : il y a un script pour la gestion de l'audio en background, un autre pour l'effet parallax des images de certaines DIV, un pour la barre de navigation flottante au départ et un pour le Scroll des différentes parties.
 
-J'ai amélioré le CSS tout au long de la progression et au vue de mon retard j'ai peut-être laissé trané quelques lourdeurs. Je m'en excuse. Je vais amélioré cela dans les prochains jours.
+J'ai amélioré le CSS tout au long de cette semaine au fur et à mesure de ma progression et de la construction du site. Au vue de mon retard j'ai peut-être laissé trainé quelques lourdeurs. Je m'en excuse. Je vais amélioré cela dans les prochains jours.
 
 Voilà, challenge accompli. Il était moins une !
 
