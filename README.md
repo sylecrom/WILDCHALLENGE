@@ -22,4 +22,4 @@ Merci encore pour cette première expérience et à très bientôt j'espère.
 
 Sylvain LE CROM
 
-candidat à la WILDCODESCHOOL
+candidat à la Wild Code School
