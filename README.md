@@ -13,7 +13,7 @@ J'ai cherché sur le WEB des références de sites qui m'ont inspiré et tout ce
 
 J'ai utiliser avec modération des codes javascript trouvés sur différents forums et via JsFiddle. J'espère que ça suffira pour le challenge : il y a un script pour la gestion de l'audio en background, un autre pour l'effet parallax des images de certaines DIV, un pour la barre de navigation flottante au départ et un pour le Scroll des différentes parties.
 
-J'ai amélioré le CSS tout au long de cette semaine au fur et à mesure de ma progression et de la construction du site. Au vu de mon retard j'ai peut-être laissé trainé quelques lourdeurs. Je m'en excuse. Je vais amélioré cela dans les prochains jours.
+J'ai amélioré le CSS tout au long de cette semaine au fur et à mesure de ma progression et de la construction du site. Au vu de mon retard j'ai peut-être laissé trainé quelques lourdeurs. Je m'en excuse. Je vais améliorer cela dans les prochains jours.
 
 Voilà, challenge accompli. Il était moins une !
 
